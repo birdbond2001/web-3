@@ -1,0 +1,64 @@
+ body{
+     margin: 0px;
+     padding: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ .page{
+     min-width: 800px;
+     max-width: 2000px;
+     
+ }
+ .login_title{
+    
+    height: 99px;
+     background-color: rgb(46, 46, 211);
+     color: white;   
+ }
+ #login_facebook{
+     margin-top: 0px;
+     padding-top: 40px;
+     width: 40%;
+     height: 50px;
+     padding-left: 250px;
+     font-size: 40px;
+     letter-spacing: 1px;
+     float: left;
+ }
+ .login_email{
+     width: 190px;
+    padding-top:20px;
+    height: 80px;
+   
+    float: left;
+ }
+ #login_input_email{
+    margin-top: 5px;
+    width: 170px;
+    height: 20px;
+ }
+ .login_password{
+    padding-top: 20px;
+    height: 80px;
+ }
+ #login_input_password{
+     margin-top: 5px;
+     width: 170px;
+     height: 20px;
+     float: left;
+ }
+ .login_btn{
+   border: 2px solid rgb(32, 24, 136);
+   margin-top: 5px;
+   margin-left: 20px;
+   float: left;
+   background-color: rgb(36, 39, 216);
+ }
+ a
+ {
+     text-decoration: none;
+     color: white;
+
+ }
+ 
+
+ 
