@@ -95,9 +95,10 @@
     clear: both;
 }
 .sing_up_selection{
-    width: 40%;
+    width: 450px;
     height:525px ;
     float: right;
+    margin-right: 160px;
 }
 #sing_up_word_selection{
     font-size: 40px;
