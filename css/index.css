@@ -73,11 +73,26 @@
  }
  .incon_singup_page
  {
-    height: 700px;
+    height: 560px;
     background-color: rgb(181, 201, 247);
     
  }
+.icon_page{
+    float: left;
+    width: 65%;
+    height: 500px;
+    text-align: left;
+    padding: 0px;
+    margin-left: 235px;
+    
+}
 
- 
+#icon_title{
+    font-size: 28px;
+    width: 480px;
+}
 
+i {
+    
+}
  
