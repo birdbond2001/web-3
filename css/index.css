@@ -4,8 +4,8 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
  }
  .page{
-     min-width: 800px;
-     max-width: 2000px;
+     min-width: 600px;
+     max-width: 1500px;
      
  }
  .login_title{
