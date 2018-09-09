@@ -8,7 +8,7 @@
     <link rel="stylesheet" type="text/css" media="screen" href="css/index.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <body  class="page">
-    <div class="login_title" >
+    <form class="login_title" >
         <div class="login_title_world">
                 <p id="login_facebook"><b>facebook</b></p>
                 <div class="login_email">
@@ -26,7 +26,7 @@
                     <p id="input_link"><a href="index.html">forget account ?</a> </p>
                 </div>
                 <div class="login_float_clean"></div>
-        </div>
+            </form>
         
         
     </div>
@@ -41,6 +41,56 @@
 
         </div>
         
+        <form class="sing_up_selection">
+            <p id="sing_up_word_selection"><b> Sign Up</b></p>
+            <p id="sing_up_small_word_selection">It's free and always will be.</p>
+            <input type="text" placeholder="First Name" class="sing_up_input_firstname" >
+            <input type="text" placeholder="Last Name" class="sing_up_input_lirstname" > 
+
+            <input type="text" placeholder="Mobile number or email" class="sing_up_input_mobilephone" >
+            <input type="text" placeholder="New password" class="sing_up_input_newposword" >
+            <p id="birthday_title">Birthday</p>
+            <div class="birthday_box">
+            <select name="month" class="birthday_select" id="birthday_month_selection" >
+                <option value="AUG">AUG</option>
+                <option value="MAY">MAY</option>
+                <option value="JUN">JUN</option>
+                <option value="JUL">JUL</option>
+            </select>
+
+            <select name="day" id="birthday_day_selection" class="birthday_select" >
+                    <option value="26">26</option>
+                    <option value="1">1</option>
+                    <option value="5">5</option>
+                    <option value="15">15</option>
+            </select>
+            <select name="year" id="birthday_year_selection" >
+                <option value="1993">1993</option>
+                <option value="1995">1995</option>
+                <option value="1988">1988</option>
+                <option value="1990">1990</option>
+            </select>
+             <a href="idenx.html"><p id="birthday_link"> Why fo I need to provide my <br> birthday ? </p></a>
+           
+            <input type="radio" name="Female" class="birthday_female_redio"> Female
+            <input type="radio" name="male" id="birthday_male_redio"> Male
+            <br /> <br>
+            <p class="birthday_policy_selection">By clicking Sing Up, you agree to our <span> <a href="index.html" style="color:blue "> Terms,Data Policy</a></span> <br>
+               and <span><a href="index.html" style="color:blue ">Cookied Policy</a></span>. You may receive SMS Notifications from <br>
+               us and can opt out any time. </p>
+             
+            </div>
+            <input type="button" value="Sing Up" class="sing_up_button"> 
+            <br> <br>
+            <hr id="sing_up_hr">
+            <br>
+            <p id="sing_up_creat_page"><a href="index.html" style="color:blue">Creatr a Page</a> for a celebrity, band or business.  </p>
+
+
+
+   </form>
+   <div class="login_clean"></div>
+    </div>   
    
 </body>
 </html>
