@@ -209,3 +209,37 @@ font-size:10px;
      margin-top: 0px;
      font-size: 10px;
  }
+ #foot_1
+ {
+    margin-top: 30px;
+    margin-left: 460px;
+    margin-right: auto;
+    font-size: 10px;
+ }
+ .footer_1 td
+ {
+    border-right: 1px solid #8a8484;
+    padding: 0 5px;
+
+ }
+ #footer-hr {
+    width: 650px;
+    position: relative;
+    left:  75px;
+}
+
+#foot_2
+{
+    margin-left: auto;
+    margin-right: auto;
+    
+   
+    font-size: 10px;
+}
+.footer_2 td
+{
+    border-right: 1px solid gray;
+    padding: 0 5px ;
+
+}
+ 
