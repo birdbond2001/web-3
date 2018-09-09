@@ -80,7 +80,7 @@
 .icon_page{
     float: left;
     width: 40%;
-    height: 500px;
+    height: 525px;
     text-align: left;
     padding: 0px;
     margin-left: 235px;
@@ -96,7 +96,7 @@
 }
 .sing_up_selection{
     width: 40%;
-    height:500px ;
+    height:525px ;
     float: right;
 }
 #sing_up_word_selection{
