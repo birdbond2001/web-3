@@ -6,6 +6,8 @@
  .page{
      min-width: 800px;
      max-width: 1500px;
+    margin-left:auto;
+    margin-right:auto
      
  }
  .login_title{
